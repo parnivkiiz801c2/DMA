@@ -1,0 +1,3 @@
+Dependencies for Project 'DMA', Target 'Target 1': (DO NOT MODIFY !)
+F (.\First.s)(0x60407C24)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F407xx SETA 1"--list .\listings\first.lst --xref -o .\objects\first.o --depend .\objects\first.d)
+I (STM32F4xx.s)(0x5FD1DE16)
