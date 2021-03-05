@@ -385,11 +385,6 @@
               <FileType>2</FileType>
               <FilePath>.\First.s</FilePath>
             </File>
-            <File>
-              <FileName>Usart.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Usart.s</FilePath>
-            </File>
           </Files>
         </Group>
       </Groups>
